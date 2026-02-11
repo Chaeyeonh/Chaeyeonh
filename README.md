@@ -31,9 +31,7 @@
   <br>
 
  ## 📊 GitHub Stats
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeonh&show_icons=true&theme=react" />
-  </div>
+  <img style="height:180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaeyeonh&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="github stats" />
 
 </div>
   
